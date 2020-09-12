@@ -50,7 +50,7 @@ export default {
 .container {
   height: 100%;
   width: 100%;
-  padding: 3px;
+  padding: 1px;
   z-index: 10;
 }
 </style>

@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <div class="container">
+    <div class="box">
+      <div class="container">
       <div class="columns">
         <div class="column is-two-fifths">
           <sidebar />
@@ -12,6 +13,7 @@
       <div>
         <projects />
       </div>
+    </div>
     </div>
   </div>
 </template>
@@ -39,9 +41,16 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
-.containers {
-  background-color: orange;
+.box{
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  background-color: black;
+}
+.container {
   height: 100%;
   width: 100%;
+  padding: 5px;
+  z-index: 10;
 }
 </style>

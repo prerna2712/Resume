@@ -4,7 +4,7 @@
       <ques msg="About Me" />
       <h2 class="text">
         <p>I am a Student Developer from Howrah, India, pursuing my bachelors' degree in Information Technology.</p>
-        <p>Beside being a Development and Competitive Programming enthusiast, I also like reading abount the hidden mysteries of the universe.</p>
+        <p>Beside being a  Web Development and Competitive Programming enthusiast, I also like reading about the hidden mysteries of the universe.</p>
       </h2>
     </div>
     <br />

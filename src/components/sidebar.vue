@@ -1,7 +1,7 @@
 <template>
   <div class="all1">
     <div class="center">
-      <img class="Profile" alt="Profile" src="./Sidebar/Photos/Profile.jpg" />
+      <img class="Profile" alt="Profile" src="./Sidebar/Photos/20201115_234122_2.jpg" />
       <h1 class="title">
         Prerna
         <span class="surname">Gupta</span>
